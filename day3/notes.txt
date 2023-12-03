@@ -1,0 +1,6 @@
+part 1 definitely not:
+14221 (too low)
+452674 (too low)
+525642 (undefined)
+585414 (undefined)
+2693281677 (too high)
