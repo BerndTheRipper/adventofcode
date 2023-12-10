@@ -26,6 +26,7 @@ def getSolution(filename, currentDay):
 	while currentLine != "":
 		currentLine = input.readline()
 	
+	input.close()
 	return result
 
 if getSolution(exampleInputFile, currentDay) != exampleExpectedResult:
